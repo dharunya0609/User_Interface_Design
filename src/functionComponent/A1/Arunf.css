@@ -1,0 +1,16 @@
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rebeccapurple;
+}
+p
+{
+  font-family: cursive;
+  color:darkslategray;
+   font-weight:800;
+  
+}
+body{
+   
+    background-image:url("../../Images/A1/bg1.webp");
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,21 @@
+.pane
+{
+    height: 100%;
+    width:100%;
+}
+.left
+{
+    background-color: #FF9580;
+    height:600px;
+    width: 15%;
+    float: left;
+}
+.right
+{
+    background-color:#E3F0F1;
+    height:600px;
+    width: 85%;
+    float:left;
+
+}
+
