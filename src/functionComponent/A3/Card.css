@@ -1,0 +1,18 @@
+.c1{
+    margin:10px;
+    border-radius: 25px;
+    background-color:#141e30 ;
+    color:aliceblue;
+    padding: 20px;
+   
+}
+.c1 img{
+    padding: 25px;
+    border-radius: 20%;
+}
+.c1 h1{
+    padding: 25px;
+}
+Button{
+ color:bisque;
+}
